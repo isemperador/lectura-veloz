@@ -1,9 +1,9 @@
 <?php
-$host = 'mysql.railway.internal';
+$host = 'zephyr.proxy.rlwy.net';
 $db   = 'railway';
 $user = 'root';
 $pass = 'lcpVbBNVqzqrBhgVNiSbuLjhuRygrecG';
-$port = '3306'; // Suele ser 3306 o similar
+$port = '47487';
 
 try {
     // Añadimos el port a la cadena de conexión de PDO
